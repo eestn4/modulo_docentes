@@ -1,0 +1,13 @@
+input.input-lg{
+	margin-left: 35px !important;
+}
+a{
+	font-size: 18px;
+	font-family: century;
+}
+.panel-heading{
+	font-size: 24px;
+	margin-left: 40px;
+	font-family: century;
+	font-variant: small-caps;
+}
